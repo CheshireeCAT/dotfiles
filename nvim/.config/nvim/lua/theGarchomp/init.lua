@@ -1,5 +1,0 @@
-require("theGarchomp.set")
-require("theGarchomp.packer")
-require("theGarchomp.color")
-require("theGarchomp.keymaps")
-require("theGarchomp.remaps")
